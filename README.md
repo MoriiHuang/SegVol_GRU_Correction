@@ -1,0 +1,1 @@
+sjtu_eiee_lab426 solution for CVPR2025 Chanllenge MedSegFM
