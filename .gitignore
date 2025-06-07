@@ -1,5 +1,6 @@
 ckpts_fm3d_segvol*/
 SegVol_v1.pth
-model_segvol*
+model_segvol_gru*
 epoch_2000_loss_0.2232.pth
 README.md
+visual/
