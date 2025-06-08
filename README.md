@@ -157,7 +157,7 @@ Preprocessing follows the original SegVol pipeline.
 ### Training Protocols
 
 Our training strategy builds on the SegVol pipeline, introducing enhanced augmentation, sampling, and interaction-aware optimization.
-![Training_protocols](imgs/Training_protocols.png)   
+![Training_protocols](imgs/Training_protocols.jpg)   
 #### Data Augmentation
 
 To improve generalization, we apply spatial and intensity-based augmentations:
@@ -208,7 +208,7 @@ This ensures both stability during training and adaptability to varied clinical 
 Postprocessing follows the original [SegVol-for-SegFM](https://github.com/Yuxin-Du-Lab/SegVol-for-SegFM) pipeline:
 
 ## Environments and Requirements
-![development](imgs/Development.png)  
+![development](imgs/Development.jpg)  
 
 ## Contributing
 
