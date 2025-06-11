@@ -201,7 +201,8 @@ The optimization combines:
 This ensures both stability during training and adaptability to varied clinical use cases.
 
 ### Testing
-
+For important setup instructions including pretrained weights download and testing procedures, please see:  
+[weights_and_testing.md](weights_and_testing.md)
 
 ### Postprocessing
 
